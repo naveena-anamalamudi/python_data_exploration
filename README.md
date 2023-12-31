@@ -1,2 +1,2 @@
 # python_data_exploration
-This repository contains python code used in data exploration
+This repository contains basic python code used in data analysis
